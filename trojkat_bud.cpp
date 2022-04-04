@@ -1,4 +1,3 @@
-//KRZYSZTOF LIGAS
 #include<iostream>
 using namespace std;
 int a,b,c;
